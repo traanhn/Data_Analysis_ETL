@@ -1,6 +1,6 @@
 """
 Usage: Store global variables for the project
-Author: Tra-Anh Nguyen 2021-09-12
+Author: traanhn 2021-09-12
 """
 
 #  Static names of sql tables
