@@ -3,7 +3,7 @@ Usage: Data analysis part
     Calculate:
     - default radius over timeframe provided
     - total hours of radius reduction
-Author: Tra-Anh Nguyen 2021-09-22
+Author: traanhn 2021-09-22
 """
 
 from datetime import timedelta
