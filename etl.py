@@ -3,7 +3,7 @@ Usage:
     This is a simple etl for looping through source data directory to dynamically perform
     drop, creation and insertion into local SQLite database
 Author:
-    Tra-Anh Nguyen - 2021.09.22
+    traanhn - 2021.09.22
 """
 
 # import from standard libraries
